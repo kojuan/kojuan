@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Android Projects** and I am currently looking for **Internship** whereas my skills are applicable
 
-- 🌱 I’m currently learning **Kotlin Programming Language and UI/UX Designing**
+- 🌱 I’m currently learning **Kotlin Programming Language** and **UI/UX Designing**
 
 - 📫 You may contact me through my <a href="mailto:kojuan.work@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40" /></a> account. (For Business inquiries)
 
