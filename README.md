@@ -21,6 +21,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/kojuankofi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kojuankofi" /></a>
-<a href="https://www.paypal.com/donate/?hosted_button_id=F7JH8Q5KN98ZS"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" width="250" height="50"/>
+<a href="https://www.paypal.com/donate/?hosted_button_id=F7JH8Q5KN98ZS"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" width="300" height="50"/>
 </a>
 </p>
