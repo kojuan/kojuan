@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kotlin Programming Language** and **UI/UX Designing**
 
-- 📫 You may contact me through my <a href="mailto:kojuan.work@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40" /></a> account. (For Business inquiries)
+- 📫 You may contact me through <a href="mailto:kojuan.work@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40" /></a> (For Business inquiries)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
