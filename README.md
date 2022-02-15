@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Khian Orland Juan 👋</h1> 
 <h3 align="center">As a talented Computer Science Programmer with thorough experience in making designs for various programs, I excel in android projects. Furthermore, designing is my forte and together with my collaborative personality, programming knowledge, and technical skill, I am sure to be able to deliver satisfaction.</h3>
 
-- 🔭 I’m currently working on **Android Projects** and I am currently looking for **Internship** whereas my skills are applicable
+- 🔭 I’m currently working on **Android Mobile Programming Projects** and I am currently looking for **Internship** where my skills are applicable
 
 - 🌱 I’m currently learning **Kotlin Programming Language** and **UI/UX Designing**
 
