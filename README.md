@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Khian Orland Juan 👋</h1> 
+<h1 align="center">Hi, I'm Khian Orland Juan 👋<br></h1> 
+<h2 align="center"><a href="https://kojuan.github.io" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Icon_External_Link.png" alt="channel/ucldxc_ib5w5d99gbjngvhjw" height="20" width="20" align="center"/>Visit my Website</a></h2>
 <h3 align="center">As a talented Computer Science Programmer with thorough experience in making designs for various programs, I excel in android projects. Furthermore, designing is my forte and together with my collaborative personality, programming knowledge, and technical skill, I am sure to be able to deliver satisfaction.</h3>
 
 - 🔭 I’m currently working on **Android Mobile Programming Projects** and I am currently looking for **Internship** where my skills are applicable
